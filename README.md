@@ -174,10 +174,15 @@ The tool uses a variety of colors to make the output easy to read:
 
 
 🟢 Green: Successful operations
+
 🔵 Blue: General information
+
 🟡 Yellow: Warnings or important notices
+
 🔴 Red: Errors or failed operations
+
 🟣 Magenta: Highlighted information
+
 🟠 Cyan: Balance information
 
 
