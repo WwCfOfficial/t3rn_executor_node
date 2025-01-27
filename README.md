@@ -159,7 +159,7 @@ export PRIVATE_KEY_LOCAL=<replace your privatekey>
 ```
 ### Set Networks
 ```
-export ENABLED_NETWORKS='arbitrum-sepolia,base-sepolia,optimism-sepolia,l1rn'
+export ENABLED_NETWORKS='arbitrum-sepolia,base-sepolia,optimism-sepolia,blast-sepolia,l1rn'
 ```
 ### Start Node
 ```
