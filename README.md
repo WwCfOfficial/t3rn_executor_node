@@ -33,6 +33,7 @@ Check Executor https://bridge.t1rn.io/explorer/orders
 BRN blockchain explorer https://brn.explorer.caldera.xyz
 
 Minimum recommended Balance to run executor node:
+
 🔴 L1RN = 1 BRN
 
 🔴 ARB SEPO = 2 ETH
@@ -44,6 +45,7 @@ Minimum recommended Balance to run executor node:
 🔴 BLAST SEPO = 2 ETH
 
 Bridge:
+
 🔴 SEPO to ARB SEPO : https://bridge.arbitrum.io/?destinationChain=arbitrum-sepolia&sourceChain=sepolia
 
 🔴 SEPO to BASE SEPO : https://superbridge.app/base-sepolia
@@ -53,6 +55,7 @@ Bridge:
 🔴 SEPO to BLAST SEPO : send Sepolia ETH to this address : 0xDeDa8D3CCf044fE2A16217846B6e1f1cfD8e122f to get ETH on Blast Sepolia
 
 Faucet list:
+
 🔴 https://faucet.quicknode.com/arbitrum/sepolia
 
 🔴 https://faucets.chain.link/arbitrum-sepolia
@@ -101,7 +104,7 @@ Bridge : https://bridge.t1rn.io
 
 # Join Crypto WwCfAirdrops Community
 
-Join TG : [Crypto WwCf Telegram](https://t.me/WwCfAirdrops) | Follow X : [Crypto WwCf Twitter](https://www.x.com/WwCfOfficial) | Subscribe : [Crypto Console Youtube](https://www.youtube.com/@WwCfOfficial)
+Join TG : [Crypto WwCf Telegram](https://t.me/WwCfAirdrops) | Follow X : [Crypto WwCf Twitter](https://www.x.com/WwCfOfficial) | Subscribe : [Crypto WwCf Youtube](https://www.youtube.com/@WwCfOfficial)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -168,6 +171,7 @@ Take a screenshot of running node and post it on discord to get a role.
 
 🎨 Understanding the Colors
 The tool uses a variety of colors to make the output easy to read:
+
 
 🟢 Green: Successful operations
 🔵 Blue: General information
