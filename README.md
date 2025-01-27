@@ -24,6 +24,64 @@ Get powerful VPS solutions with these direct links:
 💡 **Get started with the perfect VPS for your needs!** 🚀
 
 
+
+⚠️ Important Notes
+T3RN Swap and earn BRN https://bridge.t1rn.io
+
+Check Executor https://bridge.t1rn.io/explorer/orders
+
+BRN blockchain explorer https://brn.explorer.caldera.xyz
+
+Minimum recommended Balance to run executor node:
+🔴 L1RN = 1 BRN
+
+🔴 ARB SEPO = 2 ETH
+
+🔴 BASE SEPO = 2 ETH
+
+🔴 OPT SEPO = 2 ETH
+
+🔴 BLAST SEPO = 2 ETH
+
+Bridge:
+🔴 SEPO to ARB SEPO : https://bridge.arbitrum.io/?destinationChain=arbitrum-sepolia&sourceChain=sepolia
+
+🔴 SEPO to BASE SEPO : https://superbridge.app/base-sepolia
+
+🔴 SEPO to OPT SEPO : https://superbridge.app/op-sepolia
+
+🔴 SEPO to BLAST SEPO : send Sepolia ETH to this address : 0xDeDa8D3CCf044fE2A16217846B6e1f1cfD8e122f to get ETH on Blast Sepolia
+
+Faucet list:
+🔴 https://faucet.quicknode.com/arbitrum/sepolia
+
+🔴 https://faucets.chain.link/arbitrum-sepolia
+
+🔴 https://bwarelabs.com/faucets/arbitrum-sepolia
+
+🔴 https://www.alchemy.com/faucets/ethereum-sepolia
+
+🔴 https://docs.metamask.io/developer-tools/faucet/
+
+🔴 https://cloud.google.com/application/web3/faucet/ethereum/sepolia
+
+ℹ️ You can also buy Sepolia ETH from TestnetBridge if you want to start quickly. 💡Arbitrum and OP networks gives best rates💡
+
+👉 Official Discord Community
+⚙️ This script will ask if you wan't to run API or RPC node.
+ℹ️ API node = executor node will process requests from API and doesn't need to have a private Alchemy RPC points.
+ℹ️ RPC node = executor will ask for Alchemy API key and will process only orders from RPC requests.
+⚠️ Additionally script will ask if you want to add custom public RPC nodes. If you say NO then it will use default public RPCs which already integrated into script
+✅ Select a node type
+
+🔐 Input required details
+
+🟠 Set Gwei, by default gwei is set for 200
+
+🏃‍♂️‍➡️🏃‍♂️‍➡️🏃‍♂️‍➡️ Let it run! 🏃‍♂️‍➡️🏃‍♂️‍➡️🏃‍♂️‍➡️
+
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 ### Getting Started with t3rn:
 #### Participate as an Executor:
@@ -41,11 +99,10 @@ Bridge : https://bridge.t1rn.io
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-# Join Crypto Console Community
+# Join Crypto WwCfAirdrops Community
 
-Join TG : [Crypto Console Telegram](https://t.me/cryptoconsol) | Follow X : [Crypto Console Twitter](https://www.x.com/cryptoconsol) | Subscribe : [Crypto Console Youtube](https://www.youtube.com/@cryptoconsole)
+Join TG : [Crypto WwCf Telegram](https://t.me/WwCfAirdrops) | Follow X : [Crypto WwCf Twitter](https://www.x.com/WwCfOfficial) | Subscribe : [Crypto Console Youtube](https://www.youtube.com/@WwCfOfficial)
 
-Crypto VPS : [https://vpsdime.com](https://vpsdime.com/a/4418/linux-vps)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -108,6 +165,24 @@ export ENABLED_NETWORKS='arbitrum-sepolia,base-sepolia,optimism-sepolia,l1rn'
 
 Take a screenshot of running node and post it on discord to get a role.
 
-Discord : https://discord.gg/tW9Zqacw
 
-Join Crypto Console : [Community](https://t.me/cryptoconsol)
+🎨 Understanding the Colors
+The tool uses a variety of colors to make the output easy to read:
+
+🟢 Green: Successful operations
+🔵 Blue: General information
+🟡 Yellow: Warnings or important notices
+🔴 Red: Errors or failed operations
+🟣 Magenta: Highlighted information
+🟠 Cyan: Balance information
+
+
+
+
+Done !! Feel free to ask queries in telegram channel
+
+Telegram - https://t.me/WwCfAirdrops
+
+Youtube - https://www.youtube.com/@WwCfOfficial
+
+Credit: @WwCfOfficial
